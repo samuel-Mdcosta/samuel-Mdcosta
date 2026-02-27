@@ -9,7 +9,7 @@
 
 # 🛠️ Tecnologias e Ferramentas
 
-- **Backend:** PHP (Laravel), Python (FastAPI/Flask), SQL.
+- **Backend:** Python (FastAPI/Flask), PHP (Laravel), SQL, NOSQL.
 - **Frontend:** React, Tailwind CSS.
 - **DevOps & Ferramentas:** Git, Docker, MongoDB.
 - **Especialidades:** Inteligência Artificial, RAG (Retrieval-Augmented Generation), Integração de LLMs.
