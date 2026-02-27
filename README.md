@@ -23,7 +23,7 @@ Participação em grupo de pesquisa universitário focado no desenvolvimento de 
 - Armazenamento e busca semântica utilizando **Vector Databases (MongoDB)**
 
 # ♔ Analizador de perfil de xadrez
-desemvolvido para o auxilio de enxadristas para melhorar seu padrão de jogo com base na analise da IA por meio dos jogos PGN
+desenvolvido para o auxílio de enxadristas para melhorar seu padrão de jogo com base na analise da IA por meio dos jogos PGN
 - Analiza os padrões de erro do jogador
 - Gera um ritmo de estudos focados para suas debilidades
 - Armazenamento utilizando **Vector Databases (MongoDB)**
