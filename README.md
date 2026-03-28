@@ -101,15 +101,6 @@ Full-stack system for UCDB's Physical Therapy Athletics Association. Replaced a 
 
 ---
 
-## 📊 GitHub stats
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=samuel-Mdcosta&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-Mdcosta&layout=compact&theme=dark&hide_border=true&langs_count=6" />
-</div>
-
----
-
 ## 🎓 Education & languages
 
 **B.Sc. Computer Science** — Universidade Uniderp · 2023–2026
