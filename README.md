@@ -111,6 +111,9 @@ Full-stack system for UCDB's Physical Therapy Athletics Association. Replaced a 
 | English | Fluent / Advanced |
 
 ---
+[certificadoWeb.pdf](https://github.com/user-attachments/files/26320337/certificadoWeb.pdf)
+[EF SET Certificate.pdf](https://github.com/user-attachments/files/26320338/EF.SET.Certificate.pdf)
+
 
 <div align="center">
   <sub>Open to Junior & Internship opportunities in backend / AI engineering · Remote friendly</sub>
