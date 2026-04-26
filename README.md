@@ -2,7 +2,7 @@
 
 # Samuel M. Costa
 
-**Backend Developer · Python · AI & LLMs · Laravel**
+**AI Engineer | RAG Systems & Autonomous Agents | LangGraph • FastAPI • MLOps**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-samuelmdcosta-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/samuelmdcosta)
 [![Email](https://img.shields.io/badge/Email-costadev19@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:costadev19@gmail.com)
@@ -28,7 +28,7 @@ My work sits at the intersection of backend engineering and AI pipelines: REST A
 
 Desenvolvedor backend com foco em Python e IA aplicada. Curso o 7º semestre de Ciência da Computação na Uniderp (formação prevista out/2026) e construo sistemas reais — não projetos de tutorial.
 
-Meu trabalho está na interseção entre engenharia backend e pipelines de IA: APIs REST, arquitetura RAG, integração com LLMs e bancos vetoriais. Prezо por contratos claros de API, sistemas desacoplados e código fácil de manter.
+Meu trabalho está na interseção entre engenharia backend e pipelines de IA: APIs REST, arquitetura RAG, integração com LLMs e bancos vetoriais. Prezo por contratos claros de API, sistemas desacoplados e código fácil de manter.
 
 **O que busco:** Vagas júnior ou estágio em backend / IA, aberto a remoto.
 
@@ -78,8 +78,10 @@ University research project (Iniciação Científica) in collaboration with a ma
 
 **Key engineering:** custom semantic chunking algorithm (sentence-boundary aware) for high-precision retrieval; Nomic `embed-text-v1.5` embeddings (768 dimensions) stored in MongoDB Atlas Vector Search; top-8 retrieval window for cross-source context.
 
-[![Repo](https://img.shields.io/badge/Repo-Iniciacao--Cientifica-181717?style=flat&logo=github)](https://github.com/samuel-Mdcosta/Iniciacao-Cientifica_Tutor_Virtual-main)
-[![Backend](https://img.shields.io/badge/Backend-ragiaic-181717?style=flat&logo=github)](https://github.com/samuel-Mdcosta/ragiaic)
+[![Backend (RAG)](https://img.shields.io/badge/Backend-ragiaic-181717?style=flat&logo=github)](https://github.com/samuel-Mdcosta/ragiaic)
+[![Tutor Core](https://img.shields.io/badge/Repo-tutor__virtual__main-181717?style=flat&logo=github)](https://github.com/samuel-Mdcosta/Iniciacao-Cientifica_Tutor_Virtual-main)
+[![Frontend](https://img.shields.io/badge/Frontend-frontiaic-181717?style=flat&logo=github)](https://github.com/samuel-Mdcosta/frontiaic)
+[![Live](https://img.shields.io/badge/Live_Demo-Vercel-black?style=flat&logo=vercel)](https://iaicrag.vercel.app)
 
 ---
 
@@ -111,9 +113,12 @@ Full-stack system for UCDB's Physical Therapy Athletics Association. Replaced a 
 | English | Fluent / Advanced |
 
 ---
-[certificadoWeb.pdf](https://github.com/user-attachments/files/26320337/certificadoWeb.pdf)
-[EF SET Certificate.pdf](https://github.com/user-attachments/files/26320338/EF.SET.Certificate.pdf)
 
+## 📜 Certifications
+
+IBM · Google · EF SET and more — [View all certifications on LinkedIn](https://www.linkedin.com/in/samuelmdcosta/details/certifications/)
+
+---
 
 <div align="center">
   <sub>Open to Junior & Internship opportunities in backend / AI engineering · Remote friendly</sub>
