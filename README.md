@@ -7,6 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-samuelmdcosta-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/samuelmdcosta)
 [![Email](https://img.shields.io/badge/Email-costadev19@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:costadev19@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Demo-ChessTutor_AI-black?style=flat&logo=vercel)](https://chess-tutor-ai-nine.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Demo-Sinapse_Academic-black?style=flat&logo=vercel)](https://iaicrag.vercel.app)
 
 **[🇧🇷 Português](#-sobre-mim) · [🇺🇸 English](#-about-me)**
 
