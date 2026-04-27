@@ -3,6 +3,7 @@
 # Samuel M. Costa
 
 **AI Engineer | RAG Systems & Autonomous Agents | LangGraph • FastAPI • MLOps**
+\n
 **https://portifolio-samuel-costa.vercel.app/**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-samuelmdcosta-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/samuelmdcosta)
